@@ -15,3 +15,4 @@
 /Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.pdb
 /Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.genruntimeconfig.cache
 /Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/ref/EsepWebhook.dll
+/Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/Newtonsoft.Json.dll
