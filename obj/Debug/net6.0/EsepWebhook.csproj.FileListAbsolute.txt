@@ -1,0 +1,17 @@
+/Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/EsepWebhook.deps.json
+/Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/EsepWebhook.runtimeconfig.json
+/Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/EsepWebhook.dll
+/Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/EsepWebhook.pdb
+/Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/Amazon.Lambda.Core.dll
+/Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.csproj.AssemblyReference.cache
+/Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.AssemblyInfoInputs.cache
+/Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.AssemblyInfo.cs
+/Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.csproj.CoreCompileInputs.cache
+/Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.csproj.CopyComplete
+/Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.dll
+/Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/refint/EsepWebhook.dll
+/Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.pdb
+/Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.genruntimeconfig.cache
+/Users/sergioarcila/Desktop/cis4930/Event-driven/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/ref/EsepWebhook.dll
